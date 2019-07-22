@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dynamic Strings</string>
+    <string name="demo"><b>Demo</b></string>
+</resources>
